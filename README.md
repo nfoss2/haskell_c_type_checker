@@ -7,8 +7,6 @@ This assignment description can be read in the midterm.pdf project section.
 
 ## Run instructions:
 
-- Open the project in the docker container (created by professor)
-- Run `cabal build`
-- Run `cabal -v0 run` ...
+Open project in the Docker container (created by the professor).
 
-Examples:
+To run full test suite (automated grading from professor) run `make test`.
